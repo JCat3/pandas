@@ -1,5 +1,7 @@
 
-Final report includes:
+Create a final report for a gaming company using player data. 
+
+Report includes the following:
 
 **Player Count**
 
@@ -59,3 +61,5 @@ Final report includes:
   * Purchase Count
   * Item Price
   * Total Purchase Value
+
+<img width="597" alt="image" src="https://user-images.githubusercontent.com/87106205/173975371-cb3605e2-4de6-4f65-bfdf-b568950912ca.png">
